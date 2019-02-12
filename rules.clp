@@ -5,7 +5,9 @@
     (multislot  descrp )  ;site description
     (multislot rid (type STRING)); region name
     (multislot  t1 (type STRING)(default "none"));tags
-    (multislot   cf (type STRING)); child friendienss
+    (multislot   cf (type STRING))
+    ; child friendienss
+    (multislot   img)
 	)
     
 
@@ -44,6 +46,7 @@
     (multislot  descrp )
     (multislot rid (type STRING))
     (multislot  t1 (type STRING)(default "none"))
+     (multislot   img)
 
     
 )

@@ -1,10 +1,20 @@
 (deffacts sites_facts(sites
   
+     (sname " Siyu Fort")
+     (descrp "Siyu is the only town that built a fort without foreign assistance. The fort was constructed by residents in the mid 19th century to safeguard the town from the Omani Arabs attacks. It is surrounded by thick mangrove and coconut forests, which give the fort a scenic view.")
+     (rid "coast")
+     (t1 "Historic Sites")
+     (cf  "yes")
+     (img  "https://media-cdn.tripadvisor.com/media/photo-o/01/cb/3b/db/provided-by-museums-of.jpg")
+     
+ )(sites
+  
      (sname "Arabuko Sokoke Forest reserve")
      (descrp "North of Mombasa is the coastal forest of Arabuko Sokoke. This fascinating forest wilderness is nestled beside the beaches of Watamu, just minutes from the waters of the Indian Ocean.But enter the forest and discover a world apart from the beaches and reefs. In this 400 sq km reser")
      (rid "Coast")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "http://www.kenyaforestservice.org/aboutus/images/stories/mida%20creek%20boardwalk%20near%20arabuko-sokoke%20forest.jpg")
      
  )(sites
   
@@ -13,6 +23,7 @@
      (rid "coast")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "https://www.explore254.com/wp-content/sabai/File/files/l_493cd01f5ebfb9a7d06e2f2befc05594.jpg")
      
  )(sites
   
@@ -21,6 +32,7 @@
      (rid "Nothern")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "http://www.kws.go.ke/sites/default/files/styles/park_node_style/public/Central-Island.jpg?itok=Fb5z2nkq")
      
  )(sites
   
@@ -29,6 +41,7 @@
      (rid "South Rift")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://www.businessdailyafrica.com/image/view/-/4035240/medRes/1714311/-/maxw/960/-/mcwky6z/-/chagik.jpg")
      
  )(sites
   
@@ -37,6 +50,7 @@
      (rid "South Rift")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://www.businessdailyafrica.com/image/view/-/4035240/medRes/1714311/-/maxw/960/-/mcwky6z/-/chagik.jpg")
      
  )(sites
   
@@ -45,14 +59,16 @@
      (rid "Eastern")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "http://www.kws.go.ke/sites/default/files/styles/park_node_style/public/Chyulu-Hills.jpg?itok=i4ng7Zyc")
      
  )(sites
   
      (sname "David Sheldrick Wildlife Trust")
-     (descrp "his non-profit venture was established in 1977 after the death of founder, David Sheldrick who served as anti-poaching warden at the Tsavo National Park. The centre is home to orphaned rhinos and elephants that are cared for and reintroduced back to the wild.")
+     (descrp "This non-profit venture was established in 1977 after the death of founder, David Sheldrick who served as anti-poaching warden at the Tsavo National Park. The centre is home to orphaned rhinos and elephants that are cared for and reintroduced back to the wild.")
      (rid "Nairobi")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "https://i1.wp.com/www.safari254.com/wp-content/uploads/2013/07/David_Sheldrick_feeding_close_clutch.jpg?zoom=2&resize=750%2C375&ssl=1")
      
  )(sites
   
@@ -61,6 +77,7 @@
      (rid "Coast")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "https://informationcradle.com/kenya/wp-content/uploads/2015/04/Dodori-National-Reserve.jpg")
      
  )(sites
   
@@ -69,6 +86,7 @@
      (rid "North Rift")
      (t1 "Scenery and Landscap")
      (cf  "yes")
+     (img  "https://cdn-travel.jumia.com/web_hotel_detail_gallery/eliye-springs-resort-lake-turkana-1441-c916c13f58aa0ee4f5bf13e3a640d9158436267a.jpeg")
      
  )(sites
   
@@ -77,6 +95,7 @@
      (rid "Mt.Kenya")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://informationcradle.com/kenya/wp-content/uploads/2015/04/Kamburu-Dam.jpg")
      
  )(sites
   
@@ -85,14 +104,16 @@
      (rid "South Rift")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://d1ljaggyrdca1l.cloudfront.net/wp-content/uploads/2017/03/Nairobi-to-Lake-Nakuru-Naitional-Park-Excursion-1600x900.jpg")
      
  )(sites
   
      (sname "Maasai Ostrich Farm")
      (descrp "The Ostrich Farm in Nairobi is a great place where you can get up close and personal with ostriches. The farm sits on 200 acres of land and there is a bit more to do at the Ostrich Farm than just ride an Ostrich.")
      (rid "Nairobi")
-     (t1 "Wildlife Scenery and")
+     (t1 "Wildlife ")
      (cf  "yes")
+     (img  "https://www.nation.co.ke/image/view/-/4124262/highRes/1770702/-/maxw/600/-/1jreej/-/omain.jpg")
      
  )(sites
   
@@ -101,6 +122,7 @@
      (rid "Western")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "http://www.magicalkenya.com/wp-content/uploads/2014/11/menengaicraterimg2.jpg")
      
  )(sites
   
@@ -109,6 +131,7 @@
      (rid "Western")
      (t1 "Historic Sites")
      (cf  "yes")
+     (img  "https://informationcradle.com/kenya/wp-content/uploads/2015/04/The-Mfangano-Rusinga-Island-Complex.jpg")
      
  )(sites
   
@@ -117,6 +140,7 @@
      (rid "Nairobi")
      (t1 "Historic Sites")
      (cf  "yes")
+     (img  "https://media-cdn.tripadvisor.com/media/photo-s/15/d2/b9/84/photo6jpg.jpg")
      
  )(sites
   
@@ -125,6 +149,7 @@
      (rid "Western")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "http://www.kws.go.ke/sites/default/files/styles/park_node_style/public/Ndere.jpg?itok=PCnQtZ0F")
      
  )(sites
   
@@ -133,6 +158,7 @@
      (rid "Nairobi")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://i2.wp.com/mwarv.click.co.ke/wp-content/uploads/2016/08/Paradise_Lost_Kiambu_by_Mwangi_Kirubi-4.jpg?fit=700%2C467")
      
  )(sites
   
@@ -141,6 +167,7 @@
      (rid "western")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://informationcradle.com/travel/wp-content/uploads/2015/04/Saboti-Sosio-Forest1.jpg")
      
  )(sites
   
@@ -149,6 +176,7 @@
      (rid "Coast")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "http://www.kws.go.ke/sites/default/files/styles/park_node_style/public/sheldrick%20falls_0.jpg?itok=_ky64g_K")
      
  )(sites
   
@@ -157,14 +185,7 @@
      (rid "Western")
      (t1 "Culture")
      (cf  "yes")
-     
- )(sites
-  
-     (sname "Siyu fort")
-     (descrp "Siyu is the only town that built a fort without foreign assistance. The fort was constructed by residents in the mid 19th century to safeguard the town from the Omani Arabs attacks. It is surrounded by thick mangrove and coconut forests, which give the fort a scenic view.")
-     (rid "coast")
-     (t1 "Historic Sites")
-     (cf  "yes")
+     (img  "http://www.kws.go.ke/sites/default/files/styles/park_node_style/public/Flamingoes%20in%20lake%20simbi%20in%202006_0.jpg?itok=gbnippGD")
      
  )(sites
   
@@ -173,6 +194,7 @@
      (rid "Mt.Kenya")
      (t1 "Scenery & Landscapes")
      (cf  "yes")
+     (img  "https://i1.wp.com/starwoodhotelskenya.com/wp-content/uploads/2017/09/starwoodgarden.jpg?fit=2560%2C1536")
      
  )(sites
   
@@ -181,14 +203,16 @@
      (rid "Coast")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "http://www.mightytours.co.ke/data/frontImages/tours/tours_image/1364213035_150111170756--tana_river.jpg")
      
  )(sites
   
      (sname "Tsavo East National Park")
      (descrp "One of the largest parks in the country, Tsavo East offers vast and untapped areas of arid bush punctuated by the azure and emerald meandering of river Galana. It is guarded by the limitless lava reaches of Yatta Plateau and patrolled by some of the largest elephant herds in Kenya.")
-     (rid "")
+     (rid "Coast")
      (t1 "Wildlife")
      (cf  "yes")
+     (img  "https://d3hne3c382ip58.cloudfront.net/resized/373x212/3-days-mombasa-to-tsavo-east-and-tsavo-west-tour-2-4358_1510029029.JPG")
      
  ))(deffacts region_facts(regions
            (rid 1)
@@ -498,9 +522,22 @@
           (htype lodge)
           
          
-      ))(defrule filter_sites_2  
+      ))(defrule filter_sites_1  
      
-   ?f2 <- (sites (t1  "Wildlife" )  (sname ?a) (descrp ?b) (rid ?c)  )
+    ?f2 <- (sites (t1  "Beach and Marine" )  (sname ?a)  (descrp ?b) (rid ?c)  (img ?d ))	
+   => 
+(assert (wanted_sites
+
+    (sname ?a)
+    (descrp ?b)
+    (rid ?c)
+(t1 "Beach and Marine")
+(img ?d )
+ )
+)
+   )(defrule filter_sites_2  
+     
+   ?f2 <- (sites (t1  "Wildlife" )  (sname ?a) (descrp ?b) (rid ?c)  (img ?d ))
    
    
   =>
@@ -512,6 +549,7 @@
    (descrp ?b)
    (rid ?c)
 (t1 "Wildlife")
+(img ?d )
   
  
    
@@ -521,7 +559,7 @@
   
   )(defrule filter_sites_3  
      
-   ?f2 <- (sites (t1  "Scenery and Landscapes" )  (sname ?a) (descrp ?b) (rid ?c)  )
+   ?f2 <- (sites (t1  "Scenery and Landscapes" )  (sname ?a) (descrp ?b) (rid ?c) (img ?d ) )
    
    
   =>
@@ -533,6 +571,7 @@
    (descrp ?b)
    (rid ?c)
 (t1 "Scenery and Landscapes")
+(img ?d )
   
   
 )
@@ -541,7 +580,7 @@
   
   )(defrule filter_sites_4
      
-   ?f2 <- (sites (t1  "Culture" )  (sname ?a)  (descrp ?b) (rid ?c)  )
+   ?f2 <- (sites (t1  "Culture" )  (sname ?a)  (descrp ?b) (rid ?c) (img ?d ) )
    
    
   =>
@@ -553,6 +592,7 @@
    (descrp ?b)
    (rid ?c)
 (t1 "Culture")
+(img ?d )
   
  
 )
@@ -561,7 +601,7 @@
   
   )(defrule filter_sites_5  
      
-   ?f2 <- (sites (t1  "Historic Sites" )  (sname ?a)  (descrp ?b) (rid ?c)  )
+   ?f2 <- (sites (t1  "Historic Sites" )  (sname ?a)  (descrp ?b) (rid ?c) (img ?d ) )
    
    
   =>
@@ -573,6 +613,7 @@
    (descrp ?b)
    (rid ?c)
 (t1 "Historic Sites")
+(img ?d )
   
   
    
@@ -582,7 +623,7 @@
   
   )(defrule filter_sites_5  
      
-   ?f2 <- (sites (t1  "Adventure" )  (sname ?a)  (descrp ?b) (rid ?c)  )
+   ?f2 <- (sites (t1  "Adventure" )  (sname ?a)  (descrp ?b) (rid ?c)  (img ?d ))
    
    
   =>
@@ -594,14 +635,14 @@
    (descrp ?b)
    (rid ?c)
 (t1 "Adventure")
-  
+(img ?d )
 
    
 )
 )
 
   
-  )Sports(defrule filter_regions    ?f1 <- (regions (rname ?y) (regiontype "Warm and Wet")(airports  "Yes")(sc "Yes"))
+  )Sports(defrule filter_regions    ?f1 <- (regions (rname ?y) (regiontype "Warm and Wet")(airports  "Yes"))
 	
    =>
 
